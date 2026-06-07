@@ -1,6 +1,4 @@
-def login(username, password):
+def login(username,password):
 
-    if password == "admin123":
+    if password=="admin123":
         return True
-
-    return False
